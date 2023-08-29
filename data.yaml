@@ -1,0 +1,4 @@
+train: ..data/images/train/
+val: ../data/images/validation/
+nc: 10
+names: ['10old', '10new', '20', '50old', '50new', '100old', '100new', '200', '500', '2000']
